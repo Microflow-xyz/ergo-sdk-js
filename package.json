@@ -1,6 +1,6 @@
 {
-  "name": "@ergolabs/ergo-sdk",
-  "version": "0.5.0",
+  "name": "@pattern/ergo-sdk",
+  "version": "1.0.0",
   "description": "Ergo SDK",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -130,12 +130,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ergolabs/ergo-sdk-js.git"
+    "url": "git+https://github.com/Microflow-xyz/ergo-sdk-js.git"
   },
-  "author": "Ilya Oskin <ilya.arcadich@gmail.com> (https://ergoplatfrom.org/)",
+  "author": "Pattern Development Team",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/ergolabs/ergo-sdk-js/issues"
+    "url": "https://github.com/Microflow-xyz/ergo-sdk-js/issues"
   },
-  "homepage": "https://github.com/ergolabs/ergo-sdk-js#readme"
+  "homepage": "https://github.com/Microflow-xyz/ergo-sdk-js#readme"
 }
