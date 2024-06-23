@@ -1,5 +1,5 @@
 {
-  "name": "@pattern/ergo-sdk",
+  "name": "@Microflow-xyz/ergo-sdk",
   "version": "1.0.0",
   "description": "Ergo SDK",
   "main": "build/main/index.js",
