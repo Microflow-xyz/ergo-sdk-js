@@ -1,8 +1,7 @@
-name: Publish packages to NPM
+name: Publish packages to GitHub NPM Registry
 on:
-  push:
-    tags:
-      - '[0-9]+.[0-9]+.[0-9]+'
+  release:
+    types: [created]
 jobs:
   publish:
     name: Publish package. 
